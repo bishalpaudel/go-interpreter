@@ -1,2 +1,2 @@
 # go-interpreter
-Interpreter based on golang
+Interpreter for a simple custom language written in Golang.
